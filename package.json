@@ -1,0 +1,35 @@
+{
+	"name": "vue-indicators-widget",
+	"version": "0.0.1",
+	"description": "Implementation of widget with indicators as line or card and with support of sliding and listing",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/filippovd/vue-indicators-widget.git"
+	},
+	"keywords": [
+		"widget",
+		"slides",
+		"carousel",
+		"indicators",
+		"cards"
+	],
+	"author": "Dmitry Filippov <filippov.dmitry@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/filippovd/vue-indicators-widget/issues"
+	},
+	"homepage": "https://github.com/filippovd/vue-indicators-widget#readme",
+	"files": [
+		"dist/*",
+		"src/*",
+		"*.json",
+		"*.js"
+	],
+	"dependencies": {
+		"vue": "^2.6.11"
+	}
+}
